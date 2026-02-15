@@ -4,7 +4,8 @@
 
 Я - начинающий специалист в области тестирования ПО. Имею проектный опыт, полученный во время обучения в онлайн-школе Яндекс Практикум (ручное и автоматизированное тестирование веб-сервисов, api, мобильное тестирование, знакома с БД).
 
-**Стек технологий**
+
+# Стек технологий
 <div align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -26,7 +27,8 @@
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
 </div>
 
-**Связаться со мной**
+
+# Связаться со мной
 [![Email](https://img.shields.io/badge/Email-pink)](http://anya.kulpo.1999@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-pink)](http://t.me/n55_54)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pink)](https://www.linkedin.com/in/hanna-kulpo-458b67214/)
