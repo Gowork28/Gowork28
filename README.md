@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Hanna
 
-<!--
-**Gowork28/Gowork28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior QA Engineer | Manual - Auto** 
 
-Here are some ideas to get you started:
+Я - начинающий специалист в области тестирования ПО. Имею проектный опыт, полученный во время обучения (ручное и автоматизированное тестирование веб-сервисов, api, мобильное тестирование, знакома с БД).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Стек: 
+Postman, Git, API, Swagger, DevTools, Charles Proxy, SQL, Figma, HTTP, REST API, Qase.io, PyCharm, Python, Terminal, AndroidStudio, HTML, CSS
+
+Контакты:
+[![Email](https://img.shields.io/badge/just%20the%20message-pink)](http://anya.kulpo.1999@gmail.com)
+[![Telegram](https://img.shields.io/badge/just%20the%20message-pink)](http://t.me/n55_54)
+[![LinkedIn](https://img.shields.io/badge/just%20the%20message-pink)](https://www.linkedin.com/in/hanna-kulpo-458b67214/)
+
+
