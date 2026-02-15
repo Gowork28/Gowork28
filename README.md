@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hanna
+## Всем привет 
 
 **Junior QA Engineer | Manual - Auto** 
 
