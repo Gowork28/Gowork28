@@ -2,7 +2,7 @@
 
 **Junior QA Engineer | Manual - Auto** 
 
-*I am a beginner software testing specialist. I have project experience gained during my studies at the Yandex Practicum online school (manual and automated testing of web services, API, mobile testing, and I am familiar with databases).*
+I am a beginner software testing specialist. I have project experience gained during my studies at the Yandex Practicum online school (manual and automated testing of web services, API, mobile testing, and I am familiar with databases).
 
 **Стек: 
 Postman, Git, API, Swagger, DevTools, Charles Proxy, SQL, Figma, HTTP, REST API, Qase.io, PyCharm, Python, Terminal, AndroidStudio, HTML, CSS**
